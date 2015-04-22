@@ -1,0 +1,6 @@
+# IDE-specific
+.idea
+.DS_Store
+
+# logs
+build/logs
